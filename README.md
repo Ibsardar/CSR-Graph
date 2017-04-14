@@ -6,17 +6,17 @@ Executes some famous search algorithms on a compressed sparse row graph (typical
 
 ## Algorithms:
 
-**Input to Matrix to CSR**
- - *Convert User Input File to Adjacency Matrix then to CSR Graph*
+ - **Input to Matrix to CSR**
+   - *Convert User Input File to Adjacency Matrix then to CSR Graph*
 
-**Breadth-First Search**
+- **Breadth-First Search**
 
-**Depth-Fisrt Search**
+- **Depth-Fisrt Search**
 
-**Prim's**
+- **Prim's**
 
-**Atriculation Point Detection**
- - *Using AssignLow*
+- **Atriculation Point Detection**
+  - *Using AssignLow*
  
-**Dijkstra**
- - *Single Shortest Path*
+- **Dijkstra**
+  - *Single Shortest Path*
