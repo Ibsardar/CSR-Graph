@@ -4,7 +4,7 @@ Executes some famous search algorithms on a compressed sparse row graph (typical
 
 ---
 
-##Algorithms:
+## Algorithms:
 
 **Input to Matrix to CSR**
  - *Convert User Input File to Adjacency Matrix then to CSR Graph*
